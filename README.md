@@ -1,5 +1,5 @@
 # ProSeeMety
-ProSeeMety is an attachment for glasses that would help navigate blind people. This project was made at EngHacks 2017.
+ProSeeMety is an attachment for glasses that would help navigate deaf people. This project was made at EngHacks 2017.
 
 The DevPose can be found here: https://devpost.com/software/proseemety
 
