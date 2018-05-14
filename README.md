@@ -1,7 +1,7 @@
 # ProSeeMety
 ProSeeMety is an attachment for glasses that would help navigate deaf people. This project was made at EngHacks 2017.
 
-The DevPose can be found here: https://devpost.com/software/proseemety
+The DevPost can be found here: https://devpost.com/software/proseemety
 
 ## Inspiration
 We are inspired by traffic safety for people with disabilities, especially deaf people. We realized that Canada allows people with certain disabilities to operate an automobile, but they can run into potential dangers since their field of view is limited to what they can see. So we are inspired by the idea of equity in Canada, because everyone has the right to come home safe.
